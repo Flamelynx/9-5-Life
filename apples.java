@@ -1,4 +1,4 @@
-package com.github.killakilla4k.9-5-Life-Clock-in-and-Out-Breaks;
+package com.github.killakilla4k.9-5-life-clock-in-and-out-breaks;
 import java.util.Scanner;
 
 public class apples {
