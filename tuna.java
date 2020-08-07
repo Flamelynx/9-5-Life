@@ -1,4 +1,5 @@
-github.com/killakilla4k
+package github.com/killakilla4k;
+
 public class tuna {
 	private int hour;
 	private int minute;
