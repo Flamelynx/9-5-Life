@@ -1,4 +1,4 @@
-package github.com/killakilla4k
+package github.com/killakilla4k;
 import java.util.Scanner;
 
 public class apples {
